@@ -1,5 +1,5 @@
-# Sprint project 02
-> Home Credit Default Risk
+# Home Credit Default Risk
+this notebook is for a home credit risk prediction for a kaggle compettion.
 
 ## The Business problem
 
@@ -11,7 +11,6 @@ We will use [Area Under the ROC Curve](https://developers.google.com/machine-lea
 
 The original dataset is composed of multiple files with different information about loans taken. In this project, we will work exclusively with the primary files: `application_train_aai.csv` and `application_test_aai.csv`.
 
-You don't have to worry about downloading the data, it will be automatically downloaded from the `AnyoneAI - Sprint Project 02.ipynb` notebook in `Section 1 - Getting the data`.
 
 ## Technical aspects
 
